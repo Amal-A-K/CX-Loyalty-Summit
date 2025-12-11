@@ -21,6 +21,10 @@ A modern, responsive website built with React and Vite for showcasing the CX Loy
 - **Lucide React**: Beautiful icons
 - **ESLint**: Code linting and formatting
 
+## Repository
+
+This project is hosted on GitHub: [https://github.com/Amal-A-K/CX-Loyalty-Summit](https://github.com/Amal-A-K/CX-Loyalty-Summit)
+
 ## Getting Started
 
 ### Prerequisites
@@ -32,7 +36,7 @@ A modern, responsive website built with React and Vite for showcasing the CX Loy
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amal-A-K/CX-Loyalty-Summit.git
    cd cx-loyalty-website
    ```
 
@@ -65,6 +69,16 @@ npm run preview
 ```bash
 npm run lint
 ```
+
+## Deployment
+
+This website is deployed on Vercel and can be accessed at: [https://cx-loyalty-summit-fawn.vercel.app/](https://cx-loyalty-summit-fawn.vercel.app/)
+
+### Deploying to Vercel
+
+1. Connect your GitHub repository to Vercel
+2. Vercel will automatically detect the Vite configuration and build the project
+3. The site will be deployed with the production build
 
 ## Project Structure
 
